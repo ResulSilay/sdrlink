@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>App.qml</file>
+        <file>UI/Page/Splash/SplashPage.qml</file>
+        <file>UI/Page/Device/DevicePage.qml</file>
+        <file>UI/Navigation/Route.qml</file>
+        <file>Resources/Style/Style.qml</file>
+        <file>Resources/Animation/splash.json</file>
+        <file>Resources/Animation/loading.json</file>
+        <file>Resources/Image/ic_logo.svg</file>
+        <file>Resources/Image/ic_logo.png</file>
+        <file>Resources/Image/ic_logo_launcher.png</file>
+        <file>Resources/Image/ic_logo_launcher.icns</file>
+        <file>Resources/Font/RobotoRegular.ttf</file>
+        <file>Resources/Font/SyncopateRegular.ttf</file>
+    </qresource>
+</RCC>
